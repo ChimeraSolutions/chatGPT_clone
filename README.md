@@ -9,7 +9,7 @@ ChatGPT Clone with REACT! (Next.js 13, Firebase, Tailwind CSS, TypeScript, API e
   </p>
   
   
-<!-- Badges -->
+<!-- Badges --  >
 
 <a href="https://chatgpt-sclone.vercel.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
